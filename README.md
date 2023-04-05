@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shoumique
-- 👀 I’m interested in everything related to ML, AI and full stack softwares
+- 👀 I’m interested in everything related to ML, AI and full stack software developments
 - 🌱 I’m currently learning aws, python and js
-- 💞️ I’m looking to collaborate on python and js related projects
+- 💞️ I’m looking to collaborate on python and js related projects (Django, FastAPI, Flask)
 - 📫 reach me at https://shoumique.com/
 
 <!---
